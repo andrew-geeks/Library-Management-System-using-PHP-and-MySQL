@@ -1,0 +1,17 @@
+
+.div-center {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+.error{
+  color:red;
+  text-decoration: solid;
+}
+
+.ok{
+  color:darkgreen;
+  text-decoration: solid;
+}
