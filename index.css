@@ -15,3 +15,20 @@
   color:darkgreen;
   text-decoration: solid;
 }
+
+td {
+  background-color: #E4F5D4;
+  border: 1px solid black;
+}
+
+th,
+td {
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+td {
+  font-weight: lighter;
+}
