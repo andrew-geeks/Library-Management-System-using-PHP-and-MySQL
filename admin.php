@@ -15,6 +15,7 @@
         <h4>User Management</h4>
         <div>
         <button onclick="document.location='/lms/books/add.php'">Add User</button>
+        <button onclick="document.location='/lms/auth/logout.php'">Log Out╰┈➤🚪</button>
         </div>
         <br/>
         <?php
