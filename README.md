@@ -5,4 +5,4 @@
 - Manage Books
 - Lend & Return Books
 
-`set Mysql credentials in header.php file`
+ `set Mysql credentials in header.php file`
